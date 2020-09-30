@@ -1,0 +1,9 @@
+{
+  "[css]": {
+    "breadcrumbs.showEnumMembers": true,
+    "editor.suggest.insertMode": "replace"
+  },
+  "files.associations": {
+    "*.js": "javascriptreact"
+  }
+}
